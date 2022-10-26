@@ -1,4 +1,4 @@
-# workout_tracker
+# starbucks
 
 ## Project setup
 ```
